@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Pradip Pramanick</title>
+    <link>https://pradippramanick.github.io/authors/</link>
+    <description>Recent content in Authors on Pradip Pramanick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://pradippramanick.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chyan Sarkar</title>
+      <link>https://pradippramanick.github.io/authors/chyan-sarkar/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradippramanick.github.io/authors/chyan-sarkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pradip Pramanick</title>
+      <link>https://pradippramanick.github.io/authors/pradip-pramanick/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradippramanick.github.io/authors/pradip-pramanick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beepa Bose</title>
+      <link>https://pradippramanick.github.io/authors/beepa-bose/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradippramanick.github.io/authors/beepa-bose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joy Dutta</title>
+      <link>https://pradippramanick.github.io/authors/joy-dutta/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradippramanick.github.io/authors/joy-dutta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarbani Roy</title>
+      <link>https://pradippramanick.github.io/authors/sarbani-roy/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradippramanick.github.io/authors/sarbani-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subhashis Ghosh</title>
+      <link>https://pradippramanick.github.io/authors/subhashis-ghosh/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradippramanick.github.io/authors/subhashis-ghosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subhasish Ghosh</title>
+      <link>https://pradippramanick.github.io/authors/subhasish-ghosh/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradippramanick.github.io/authors/subhasish-ghosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pradippramanick.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradippramanick.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a researcher at TCS Research and Innovation. I am part of the Embedded Systems &amp;amp; Robotics (ESR) group. My current research focus includes enabling human-like interaction between a robot and humans. I am currently working on natural language understanding for HRI, dialogue agents for robotic task execution and speech recognition in telepresence robotics. I briefly worked on energy-efficient crowd-sensing techniques employed on mobile phones.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
