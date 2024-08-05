@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://aclanthology.org/2023.findings-emnlp.593/">Paper</a> accepted in EMNLP 2023 findings.
+<a href="https://aclanthology.org/2023.findings-emnlp.593/">Paper</a> accepted in <b>EMNLP 2023 Findings</b>.
