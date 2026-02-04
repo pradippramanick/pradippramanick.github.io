@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 Outstanding Reviewer Award in
-<a href="https://icmi.acm.org/2025/awards/"> ICMI 2025</a>.
+<a href="assets/pdf/ICMI2025_Pramanick_Pradip.pdf"> ICMI 2025</a>.
